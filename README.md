@@ -10,9 +10,9 @@ This is very unlikely to work.
 
 # How to run it
 
-Download latest release
-Unzip the archive
-Launch WalletMiner
+1. Download latest release
+2. Unzip the archive
+3. Launch WalletMiner
 
 Finally run the program with the balance file as argument:
 
